@@ -49,8 +49,6 @@ class App extends Component {
     return totalScore / scoresHistory.length;
   };
 
-
-
   render() {
     return (
       <div className="main__wrap">
